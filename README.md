@@ -8,4 +8,10 @@ Enter a city name and click the search button or hit enter to see current weathe
 
 ![Weather Dashboard](./Assets/WD.PNG)
 
+---
+
 Link to active link : https://arati15.github.io/Dashboard-Weather/
+
+---
+
+Clone repo : https://github.com/Arati15/Dashboard-Weather
