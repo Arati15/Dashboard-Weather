@@ -15,3 +15,8 @@ Link to active link : https://arati15.github.io/Dashboard-Weather/
 ---
 
 Clone repo : https://github.com/Arati15/Dashboard-Weather
+
+---
+## Contact Information:
+
+Github Username : Arati15
